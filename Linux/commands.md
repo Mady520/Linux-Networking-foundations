@@ -25,3 +25,6 @@ Options are case sensitive but can be combined.
 16. mkdir (directory/folder name ) --> Creates the directory with the name given.  
 17. **touch** --> Change file timestamps (modification, access time).  
 18. **file** --> Determine the file type (by doing some test not based on the extension).
+19. **rm** --> Remove files or Directories.
+20. rm -d --> for removing directories.
+21. 
