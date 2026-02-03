@@ -27,4 +27,6 @@ Options are case sensitive but can be combined.
 18. **file** --> Determine the file type (by doing some test not based on the extension).
 19. **rm** --> Remove files or Directories.
 20. rm -d --> for removing directories.
-21. 
+21. rm -r --> Removes directories with their contents.
+22. **cp** --> Copies files and Directories.
+23.  
