@@ -32,4 +32,5 @@ Options are case sensitive but can be combined.
 23. **mv** --> Moves files and Directories.
 24. **rmdir** --> removes empty Directories.
 25. **clear** --> used to clear the terminal screen.
-26. 
+26. **echo** --> used to display text in terminal.
+
